@@ -1,2 +1,2 @@
 # hello-world
-optoinal hello description
+optional hello description
